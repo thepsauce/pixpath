@@ -67,7 +67,7 @@ do
 		break
 		;;
 	*)
-		echo "invalid argument $1"
+		echo "invalid argument $1" &>2
 		exit
 	esac
 done
@@ -119,7 +119,7 @@ then
 fi
 
 signal_handler() {
-	echo "Caught SIGINT!"
+	echo "Caught SIGINT!" >&2
 }
 
 if $do_debug
@@ -145,5 +145,5 @@ then
 		diff_seconds=$((diff_seconds - 1))
 		diff_nanoseconds=$((1000000000 + diff_nanoseconds))
 	fi
-	echo -e "\nexit code: \e[36m$exit_code\e[0m; elapsed time: \e[36m$diff_seconds.$diff_nanoseconds\e[0m seconds"
+	echo -e "\nexit code: \e[36m$exit_code\e[0m; elapsed time: \e[36m$diff_seconds.$diff_nanoseconds\e[0m seconds" >&2
 fi

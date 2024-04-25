@@ -9,6 +9,11 @@
 
 typedef uint32_t Uint32;
 
+enum log_level {
+	LOG_DEFAULT,
+	LOG_VERBOSE
+};
+
 struct fpoint {
 	float x, y;
 };
@@ -18,6 +23,7 @@ struct point {
 };
 
 extern struct config {
+	enum log_level loglevel;
 	unsigned long filled;
 	unsigned long empty;
 	int prescale;
