@@ -11421,7 +11421,7 @@ pen.lineTo((200,0))
 pen.lineTo((200,100))
 pen.lineTo((300,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000384"))
 pen = glyph.glyphPen()
@@ -11436,7 +11436,7 @@ pen.lineTo((400,900))
 pen.lineTo((300,900))
 pen.lineTo((300,1100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000385"))
 pen = glyph.glyphPen()
@@ -11459,7 +11459,7 @@ pen.lineTo((400,900))
 pen.lineTo((600,900))
 pen.lineTo((600,800))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000386"))
 pen = glyph.glyphPen()
@@ -11502,7 +11502,7 @@ pen.lineTo((500,500))
 pen.lineTo((500,700))
 pen.lineTo((400,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000387"))
 pen = glyph.glyphPen()
@@ -11511,7 +11511,7 @@ pen.lineTo((500,700))
 pen.lineTo((500,500))
 pen.lineTo((300,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000388"))
 pen = glyph.glyphPen()
@@ -11553,7 +11553,7 @@ pen.lineTo((0,100))
 pen.lineTo((100,100))
 pen.lineTo((100,800))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000389"))
 pen = glyph.glyphPen()
@@ -11579,7 +11579,7 @@ pen.lineTo((200,400))
 pen.lineTo((200,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000038a"))
 pen = glyph.glyphPen()
@@ -11605,7 +11605,7 @@ pen.lineTo((200,100))
 pen.lineTo((300,100))
 pen.lineTo((300,800))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000038c"))
 pen = glyph.glyphPen()
@@ -11636,7 +11636,7 @@ pen.lineTo((200,100))
 pen.lineTo((500,100))
 pen.lineTo((500,800))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000038e"))
 pen = glyph.glyphPen()
@@ -11670,7 +11670,7 @@ pen.lineTo((200,400))
 pen.lineTo((200,500))
 pen.lineTo((100,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000038f"))
 pen = glyph.glyphPen()
@@ -11716,7 +11716,7 @@ pen.lineTo((0,700))
 pen.lineTo((100,700))
 pen.lineTo((100,800))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000390"))
 pen = glyph.glyphPen()
@@ -11753,7 +11753,7 @@ pen.lineTo((600,200))
 pen.lineTo((600,100))
 pen.lineTo((500,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000391"))
 pen = glyph.glyphPen()
@@ -11787,7 +11787,7 @@ pen.lineTo((500,500))
 pen.lineTo((500,700))
 pen.lineTo((400,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000392"))
 pen = glyph.glyphPen()
@@ -11818,7 +11818,7 @@ pen.lineTo((300,100))
 pen.lineTo((500,100))
 pen.lineTo((500,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000393"))
 pen = glyph.glyphPen()
@@ -11839,7 +11839,7 @@ pen.lineTo((0,100))
 pen.lineTo((100,100))
 pen.lineTo((100,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000394"))
 pen = glyph.glyphPen()
@@ -11869,7 +11869,7 @@ pen.lineTo((500,100))
 pen.lineTo((500,400))
 pen.lineTo((400,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000395"))
 pen = glyph.glyphPen()
@@ -11902,7 +11902,7 @@ pen.lineTo((0,100))
 pen.lineTo((100,100))
 pen.lineTo((100,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000396"))
 pen = glyph.glyphPen()
@@ -11943,7 +11943,7 @@ pen.lineTo((100,800))
 pen.lineTo((100,700))
 pen.lineTo((0,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000397"))
 pen = glyph.glyphPen()
@@ -11960,7 +11960,7 @@ pen.lineTo((200,500))
 pen.lineTo((200,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000398"))
 pen = glyph.glyphPen()
@@ -12003,7 +12003,7 @@ pen.lineTo((400,200))
 pen.lineTo((500,200))
 pen.lineTo((500,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000399"))
 pen = glyph.glyphPen()
@@ -12020,7 +12020,7 @@ pen.lineTo((200,100))
 pen.lineTo((300,100))
 pen.lineTo((300,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000039a"))
 pen = glyph.glyphPen()
@@ -12053,7 +12053,7 @@ pen.lineTo((0,100))
 pen.lineTo((100,100))
 pen.lineTo((100,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000039b"))
 pen = glyph.glyphPen()
@@ -12082,7 +12082,7 @@ pen.lineTo((200,600))
 pen.lineTo((200,800))
 pen.lineTo((300,800))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000039c"))
 pen = glyph.glyphPen()
@@ -12107,7 +12107,7 @@ pen.lineTo((200,600))
 pen.lineTo((200,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000039d"))
 pen = glyph.glyphPen()
@@ -12132,7 +12132,7 @@ pen.lineTo((200,600))
 pen.lineTo((200,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000039e"))
 pen = glyph.glyphPen()
@@ -12159,7 +12159,7 @@ pen.lineTo((700,200))
 pen.lineTo((700,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000039f"))
 pen = glyph.glyphPen()
@@ -12181,7 +12181,7 @@ pen.lineTo((200,100))
 pen.lineTo((500,100))
 pen.lineTo((500,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003a0"))
 pen = glyph.glyphPen()
@@ -12194,7 +12194,7 @@ pen.lineTo((200,900))
 pen.lineTo((200,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003a1"))
 pen = glyph.glyphPen()
@@ -12220,7 +12220,7 @@ pen.lineTo((300,600))
 pen.lineTo((500,600))
 pen.lineTo((500,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003a3"))
 pen = glyph.glyphPen()
@@ -12265,7 +12265,7 @@ pen.lineTo((100,700))
 pen.lineTo((100,800))
 pen.lineTo((0,800))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003a4"))
 pen = glyph.glyphPen()
@@ -12286,7 +12286,7 @@ pen.lineTo((200,800))
 pen.lineTo((200,700))
 pen.lineTo((100,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003a5"))
 pen = glyph.glyphPen()
@@ -12311,7 +12311,7 @@ pen.lineTo((200,500))
 pen.lineTo((200,600))
 pen.lineTo((100,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003a6"))
 pen = glyph.glyphPen()
@@ -12354,7 +12354,7 @@ pen.lineTo((400,700))
 pen.lineTo((400,300))
 pen.lineTo((500,300))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003a7"))
 pen = glyph.glyphPen()
@@ -12395,7 +12395,7 @@ pen.lineTo((100,600))
 pen.lineTo((100,800))
 pen.lineTo((0,800))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003a8"))
 pen = glyph.glyphPen()
@@ -12424,7 +12424,7 @@ pen.lineTo((100,300))
 pen.lineTo((100,400))
 pen.lineTo((0,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003a9"))
 pen = glyph.glyphPen()
@@ -12461,7 +12461,7 @@ pen.lineTo((0,800))
 pen.lineTo((100,800))
 pen.lineTo((100,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003aa"))
 pen = glyph.glyphPen()
@@ -12488,7 +12488,7 @@ pen.lineTo((200,100))
 pen.lineTo((300,100))
 pen.lineTo((300,800))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003ab"))
 pen = glyph.glyphPen()
@@ -12523,7 +12523,7 @@ pen.lineTo((200,400))
 pen.lineTo((200,500))
 pen.lineTo((100,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003ac"))
 pen = glyph.glyphPen()
@@ -12560,7 +12560,7 @@ pen.lineTo((400,100))
 pen.lineTo((400,600))
 pen.lineTo((500,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003ad"))
 pen = glyph.glyphPen()
@@ -12594,7 +12594,7 @@ pen.lineTo((200,400))
 pen.lineTo((100,400))
 pen.lineTo((100,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003ae"))
 pen = glyph.glyphPen()
@@ -12625,7 +12625,7 @@ pen.lineTo((700,-300))
 pen.lineTo((500,-300))
 pen.lineTo((500,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003af"))
 pen = glyph.glyphPen()
@@ -12652,7 +12652,7 @@ pen.lineTo((600,200))
 pen.lineTo((600,100))
 pen.lineTo((500,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003b0"))
 pen = glyph.glyphPen()
@@ -12690,7 +12690,7 @@ pen.lineTo((100,0))
 pen.lineTo((100,100))
 pen.lineTo((0,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003b1"))
 pen = glyph.glyphPen()
@@ -12718,7 +12718,7 @@ pen.lineTo((400,100))
 pen.lineTo((400,600))
 pen.lineTo((500,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003b2"))
 pen = glyph.glyphPen()
@@ -12755,7 +12755,7 @@ pen.lineTo((200,100))
 pen.lineTo((500,100))
 pen.lineTo((500,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003b3"))
 pen = glyph.glyphPen()
@@ -12793,7 +12793,7 @@ pen.lineTo((300,100))
 pen.lineTo((300,-200))
 pen.lineTo((400,-200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003b4"))
 pen = glyph.glyphPen()
@@ -12829,7 +12829,7 @@ pen.lineTo((300,100))
 pen.lineTo((500,100))
 pen.lineTo((500,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003b5"))
 pen = glyph.glyphPen()
@@ -12854,7 +12854,7 @@ pen.lineTo((200,400))
 pen.lineTo((100,400))
 pen.lineTo((100,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003b6"))
 pen = glyph.glyphPen()
@@ -12895,7 +12895,7 @@ pen.lineTo((200,800))
 pen.lineTo((100,800))
 pen.lineTo((100,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003b7"))
 pen = glyph.glyphPen()
@@ -12917,7 +12917,7 @@ pen.lineTo((700,-300))
 pen.lineTo((500,-300))
 pen.lineTo((500,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003b8"))
 pen = glyph.glyphPen()
@@ -12955,7 +12955,7 @@ pen.lineTo((400,500))
 pen.lineTo((500,500))
 pen.lineTo((500,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003b9"))
 pen = glyph.glyphPen()
@@ -12973,7 +12973,7 @@ pen.lineTo((600,200))
 pen.lineTo((600,100))
 pen.lineTo((500,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003ba"))
 pen = glyph.glyphPen()
@@ -13006,7 +13006,7 @@ pen.lineTo((200,200))
 pen.lineTo((200,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003bb"))
 pen = glyph.glyphPen()
@@ -13037,7 +13037,7 @@ pen.lineTo((300,800))
 pen.lineTo((100,800))
 pen.lineTo((100,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003bc"))
 pen = glyph.glyphPen()
@@ -13064,7 +13064,7 @@ pen.lineTo((700,100))
 pen.lineTo((700,0))
 pen.lineTo((600,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003bd"))
 pen = glyph.glyphPen()
@@ -13089,7 +13089,7 @@ pen.lineTo((200,100))
 pen.lineTo((100,100))
 pen.lineTo((100,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003be"))
 pen = glyph.glyphPen()
@@ -13130,7 +13130,7 @@ pen.lineTo((0,700))
 pen.lineTo((100,700))
 pen.lineTo((100,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003bf"))
 pen = glyph.glyphPen()
@@ -13152,7 +13152,7 @@ pen.lineTo((200,100))
 pen.lineTo((500,100))
 pen.lineTo((500,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003c0"))
 pen = glyph.glyphPen()
@@ -13169,7 +13169,7 @@ pen.lineTo((300,0))
 pen.lineTo((100,0))
 pen.lineTo((100,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003c1"))
 pen = glyph.glyphPen()
@@ -13194,7 +13194,7 @@ pen.lineTo((200,-300))
 pen.lineTo((0,-300))
 pen.lineTo((0,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003c2"))
 pen = glyph.glyphPen()
@@ -13227,7 +13227,7 @@ pen.lineTo((100,300))
 pen.lineTo((0,300))
 pen.lineTo((0,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003c3"))
 pen = glyph.glyphPen()
@@ -13251,7 +13251,7 @@ pen.lineTo((200,100))
 pen.lineTo((400,100))
 pen.lineTo((400,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003c4"))
 pen = glyph.glyphPen()
@@ -13273,7 +13273,7 @@ pen.lineTo((700,200))
 pen.lineTo((700,100))
 pen.lineTo((600,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003c5"))
 pen = glyph.glyphPen()
@@ -13292,7 +13292,7 @@ pen.lineTo((100,0))
 pen.lineTo((100,100))
 pen.lineTo((0,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003c6"))
 pen = glyph.glyphPen()
@@ -13322,7 +13322,7 @@ pen.lineTo((400,600))
 pen.lineTo((400,100))
 pen.lineTo((500,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003c7"))
 pen = glyph.glyphPen()
@@ -13365,7 +13365,7 @@ pen.lineTo((100,100))
 pen.lineTo((100,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003c8"))
 pen = glyph.glyphPen()
@@ -13390,7 +13390,7 @@ pen.lineTo((100,0))
 pen.lineTo((100,100))
 pen.lineTo((0,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003c9"))
 pen = glyph.glyphPen()
@@ -13421,7 +13421,7 @@ pen.lineTo((400,400))
 pen.lineTo((400,100))
 pen.lineTo((300,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003ca"))
 pen = glyph.glyphPen()
@@ -13449,7 +13449,7 @@ pen.lineTo((600,200))
 pen.lineTo((600,100))
 pen.lineTo((500,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003cb"))
 pen = glyph.glyphPen()
@@ -13478,7 +13478,7 @@ pen.lineTo((100,0))
 pen.lineTo((100,100))
 pen.lineTo((0,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003cc"))
 pen = glyph.glyphPen()
@@ -13509,7 +13509,7 @@ pen.lineTo((200,100))
 pen.lineTo((500,100))
 pen.lineTo((500,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003cd"))
 pen = glyph.glyphPen()
@@ -13537,7 +13537,7 @@ pen.lineTo((100,0))
 pen.lineTo((100,100))
 pen.lineTo((0,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003ce"))
 pen = glyph.glyphPen()
@@ -13577,7 +13577,7 @@ pen.lineTo((400,400))
 pen.lineTo((400,100))
 pen.lineTo((300,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003d0"))
 pen = glyph.glyphPen()
@@ -13610,7 +13610,7 @@ pen.lineTo((200,0))
 pen.lineTo((0,0))
 pen.lineTo((0,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003d5"))
 pen = glyph.glyphPen()
@@ -13649,7 +13649,7 @@ pen.lineTo((400,700))
 pen.lineTo((400,200))
 pen.lineTo((500,200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000003f4"))
 pen = glyph.glyphPen()
@@ -13692,7 +13692,7 @@ pen.lineTo((400,200))
 pen.lineTo((500,200))
 pen.lineTo((500,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000400"))
 pen = glyph.glyphPen()
@@ -13734,7 +13734,7 @@ pen.lineTo((0,100))
 pen.lineTo((100,100))
 pen.lineTo((100,800))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000401"))
 pen = glyph.glyphPen()
@@ -13777,7 +13777,7 @@ pen.lineTo((0,100))
 pen.lineTo((100,100))
 pen.lineTo((100,800))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000402"))
 pen = glyph.glyphPen()
@@ -13811,7 +13811,7 @@ pen.lineTo((400,0))
 pen.lineTo((500,0))
 pen.lineTo((500,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000403"))
 pen = glyph.glyphPen()
@@ -13841,7 +13841,7 @@ pen.lineTo((0,100))
 pen.lineTo((100,100))
 pen.lineTo((100,800))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000404"))
 pen = glyph.glyphPen()
@@ -13886,7 +13886,7 @@ pen.lineTo((0,800))
 pen.lineTo((100,800))
 pen.lineTo((100,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000405"))
 pen = glyph.glyphPen()
@@ -13927,7 +13927,7 @@ pen.lineTo((100,700))
 pen.lineTo((0,700))
 pen.lineTo((0,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000406"))
 pen = glyph.glyphPen()
@@ -13944,7 +13944,7 @@ pen.lineTo((200,100))
 pen.lineTo((300,100))
 pen.lineTo((300,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000407"))
 pen = glyph.glyphPen()
@@ -13971,7 +13971,7 @@ pen.lineTo((200,100))
 pen.lineTo((300,100))
 pen.lineTo((300,800))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000408"))
 pen = glyph.glyphPen()
@@ -13992,7 +13992,7 @@ pen.lineTo((200,100))
 pen.lineTo((400,100))
 pen.lineTo((400,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000409"))
 pen = glyph.glyphPen()
@@ -14018,7 +14018,7 @@ pen.lineTo((700,500))
 pen.lineTo((700,100))
 pen.lineTo((600,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000040a"))
 pen = glyph.glyphPen()
@@ -14046,7 +14046,7 @@ pen.lineTo((700,500))
 pen.lineTo((700,100))
 pen.lineTo((600,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000040b"))
 pen = glyph.glyphPen()
@@ -14071,7 +14071,7 @@ pen.lineTo((0,100))
 pen.lineTo((100,100))
 pen.lineTo((100,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000040c"))
 pen = glyph.glyphPen()
@@ -14113,7 +14113,7 @@ pen.lineTo((0,100))
 pen.lineTo((100,100))
 pen.lineTo((100,800))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000040d"))
 pen = glyph.glyphPen()
@@ -14147,7 +14147,7 @@ pen.lineTo((200,100))
 pen.lineTo((200,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000040e"))
 pen = glyph.glyphPen()
@@ -14185,7 +14185,7 @@ pen.lineTo((100,400))
 pen.lineTo((100,500))
 pen.lineTo((0,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000040f"))
 pen = glyph.glyphPen()
@@ -14210,7 +14210,7 @@ pen.lineTo((0,100))
 pen.lineTo((100,100))
 pen.lineTo((100,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000410"))
 pen = glyph.glyphPen()
@@ -14244,7 +14244,7 @@ pen.lineTo((500,500))
 pen.lineTo((500,700))
 pen.lineTo((400,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000411"))
 pen = glyph.glyphPen()
@@ -14274,7 +14274,7 @@ pen.lineTo((300,100))
 pen.lineTo((500,100))
 pen.lineTo((500,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000412"))
 pen = glyph.glyphPen()
@@ -14305,7 +14305,7 @@ pen.lineTo((300,100))
 pen.lineTo((500,100))
 pen.lineTo((500,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000413"))
 pen = glyph.glyphPen()
@@ -14326,7 +14326,7 @@ pen.lineTo((0,100))
 pen.lineTo((100,100))
 pen.lineTo((100,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000414"))
 pen = glyph.glyphPen()
@@ -14358,7 +14358,7 @@ pen.lineTo((300,800))
 pen.lineTo((300,100))
 pen.lineTo((500,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000415"))
 pen = glyph.glyphPen()
@@ -14391,7 +14391,7 @@ pen.lineTo((0,100))
 pen.lineTo((100,100))
 pen.lineTo((100,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000416"))
 pen = glyph.glyphPen()
@@ -14432,7 +14432,7 @@ pen.lineTo((100,600))
 pen.lineTo((100,700))
 pen.lineTo((0,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000417"))
 pen = glyph.glyphPen()
@@ -14469,7 +14469,7 @@ pen.lineTo((100,700))
 pen.lineTo((0,700))
 pen.lineTo((0,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000418"))
 pen = glyph.glyphPen()
@@ -14494,7 +14494,7 @@ pen.lineTo((200,200))
 pen.lineTo((200,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000419"))
 pen = glyph.glyphPen()
@@ -14532,7 +14532,7 @@ pen.lineTo((200,100))
 pen.lineTo((200,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000041a"))
 pen = glyph.glyphPen()
@@ -14565,7 +14565,7 @@ pen.lineTo((0,100))
 pen.lineTo((100,100))
 pen.lineTo((100,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000041b"))
 pen = glyph.glyphPen()
@@ -14588,7 +14588,7 @@ pen.lineTo((100,800))
 pen.lineTo((200,800))
 pen.lineTo((200,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000041c"))
 pen = glyph.glyphPen()
@@ -14613,7 +14613,7 @@ pen.lineTo((200,600))
 pen.lineTo((200,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000041d"))
 pen = glyph.glyphPen()
@@ -14630,7 +14630,7 @@ pen.lineTo((200,500))
 pen.lineTo((200,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000041e"))
 pen = glyph.glyphPen()
@@ -14652,7 +14652,7 @@ pen.lineTo((200,100))
 pen.lineTo((500,100))
 pen.lineTo((500,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000041f"))
 pen = glyph.glyphPen()
@@ -14665,7 +14665,7 @@ pen.lineTo((200,900))
 pen.lineTo((200,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000420"))
 pen = glyph.glyphPen()
@@ -14691,7 +14691,7 @@ pen.lineTo((300,600))
 pen.lineTo((500,600))
 pen.lineTo((500,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000421"))
 pen = glyph.glyphPen()
@@ -14728,7 +14728,7 @@ pen.lineTo((0,800))
 pen.lineTo((100,800))
 pen.lineTo((100,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000422"))
 pen = glyph.glyphPen()
@@ -14749,7 +14749,7 @@ pen.lineTo((200,800))
 pen.lineTo((200,700))
 pen.lineTo((100,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000423"))
 pen = glyph.glyphPen()
@@ -14774,7 +14774,7 @@ pen.lineTo((100,400))
 pen.lineTo((100,500))
 pen.lineTo((0,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000424"))
 pen = glyph.glyphPen()
@@ -14817,7 +14817,7 @@ pen.lineTo((400,700))
 pen.lineTo((400,300))
 pen.lineTo((500,300))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000425"))
 pen = glyph.glyphPen()
@@ -14858,7 +14858,7 @@ pen.lineTo((100,600))
 pen.lineTo((100,800))
 pen.lineTo((0,800))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000426"))
 pen = glyph.glyphPen()
@@ -14877,7 +14877,7 @@ pen.lineTo((500,-100))
 pen.lineTo((500,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000427"))
 pen = glyph.glyphPen()
@@ -14894,7 +14894,7 @@ pen.lineTo((100,400))
 pen.lineTo((100,500))
 pen.lineTo((0,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000428"))
 pen = glyph.glyphPen()
@@ -14911,7 +14911,7 @@ pen.lineTo((700,1000))
 pen.lineTo((700,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000429"))
 pen = glyph.glyphPen()
@@ -14934,7 +14934,7 @@ pen.lineTo((600,-100))
 pen.lineTo((600,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000042a"))
 pen = glyph.glyphPen()
@@ -14960,7 +14960,7 @@ pen.lineTo((400,500))
 pen.lineTo((400,100))
 pen.lineTo((500,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000042b"))
 pen = glyph.glyphPen()
@@ -14985,7 +14985,7 @@ pen.lineTo((400,500))
 pen.lineTo((400,100))
 pen.lineTo((300,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000042c"))
 pen = glyph.glyphPen()
@@ -15011,7 +15011,7 @@ pen.lineTo((300,100))
 pen.lineTo((500,100))
 pen.lineTo((500,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000042d"))
 pen = glyph.glyphPen()
@@ -15056,7 +15056,7 @@ pen.lineTo((100,700))
 pen.lineTo((0,700))
 pen.lineTo((0,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000042e"))
 pen = glyph.glyphPen()
@@ -15086,7 +15086,7 @@ pen.lineTo((400,100))
 pen.lineTo((500,100))
 pen.lineTo((500,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000042f"))
 pen = glyph.glyphPen()
@@ -15116,7 +15116,7 @@ pen.lineTo((200,600))
 pen.lineTo((400,600))
 pen.lineTo((400,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000430"))
 pen = glyph.glyphPen()
@@ -15145,7 +15145,7 @@ pen.lineTo((100,500))
 pen.lineTo((400,500))
 pen.lineTo((400,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000431"))
 pen = glyph.glyphPen()
@@ -15175,7 +15175,7 @@ pen.lineTo((200,100))
 pen.lineTo((500,100))
 pen.lineTo((500,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000432"))
 pen = glyph.glyphPen()
@@ -15206,7 +15206,7 @@ pen.lineTo((300,100))
 pen.lineTo((500,100))
 pen.lineTo((500,300))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000433"))
 pen = glyph.glyphPen()
@@ -15227,7 +15227,7 @@ pen.lineTo((0,100))
 pen.lineTo((100,100))
 pen.lineTo((100,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000434"))
 pen = glyph.glyphPen()
@@ -15257,7 +15257,7 @@ pen.lineTo((200,400))
 pen.lineTo((200,100))
 pen.lineTo((400,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000435"))
 pen = glyph.glyphPen()
@@ -15285,7 +15285,7 @@ pen.lineTo((200,500))
 pen.lineTo((500,500))
 pen.lineTo((500,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000436"))
 pen = glyph.glyphPen()
@@ -15318,7 +15318,7 @@ pen.lineTo((100,300))
 pen.lineTo((100,400))
 pen.lineTo((0,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000437"))
 pen = glyph.glyphPen()
@@ -15351,7 +15351,7 @@ pen.lineTo((200,500))
 pen.lineTo((0,500))
 pen.lineTo((0,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000438"))
 pen = glyph.glyphPen()
@@ -15376,7 +15376,7 @@ pen.lineTo((200,100))
 pen.lineTo((200,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000439"))
 pen = glyph.glyphPen()
@@ -15414,7 +15414,7 @@ pen.lineTo((200,100))
 pen.lineTo((200,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000043a"))
 pen = glyph.glyphPen()
@@ -15447,7 +15447,7 @@ pen.lineTo((0,100))
 pen.lineTo((100,100))
 pen.lineTo((100,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000043b"))
 pen = glyph.glyphPen()
@@ -15470,7 +15470,7 @@ pen.lineTo((100,500))
 pen.lineTo((200,500))
 pen.lineTo((200,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000043c"))
 pen = glyph.glyphPen()
@@ -15495,7 +15495,7 @@ pen.lineTo((200,400))
 pen.lineTo((200,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000043d"))
 pen = glyph.glyphPen()
@@ -15512,7 +15512,7 @@ pen.lineTo((200,300))
 pen.lineTo((200,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000043e"))
 pen = glyph.glyphPen()
@@ -15534,7 +15534,7 @@ pen.lineTo((200,100))
 pen.lineTo((500,100))
 pen.lineTo((500,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000043f"))
 pen = glyph.glyphPen()
@@ -15547,7 +15547,7 @@ pen.lineTo((200,600))
 pen.lineTo((200,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000440"))
 pen = glyph.glyphPen()
@@ -15576,7 +15576,7 @@ pen.lineTo((0,-200))
 pen.lineTo((100,-200))
 pen.lineTo((100,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000441"))
 pen = glyph.glyphPen()
@@ -15601,7 +15601,7 @@ pen.lineTo((100,100))
 pen.lineTo((0,100))
 pen.lineTo((0,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000442"))
 pen = glyph.glyphPen()
@@ -15622,7 +15622,7 @@ pen.lineTo((200,600))
 pen.lineTo((200,500))
 pen.lineTo((100,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000443"))
 pen = glyph.glyphPen()
@@ -15647,7 +15647,7 @@ pen.lineTo((100,0))
 pen.lineTo((100,100))
 pen.lineTo((0,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000444"))
 pen = glyph.glyphPen()
@@ -15682,7 +15682,7 @@ pen.lineTo((400,600))
 pen.lineTo((400,100))
 pen.lineTo((500,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000445"))
 pen = glyph.glyphPen()
@@ -15723,7 +15723,7 @@ pen.lineTo((200,500))
 pen.lineTo((100,500))
 pen.lineTo((100,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000446"))
 pen = glyph.glyphPen()
@@ -15742,7 +15742,7 @@ pen.lineTo((500,-100))
 pen.lineTo((500,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000447"))
 pen = glyph.glyphPen()
@@ -15759,7 +15759,7 @@ pen.lineTo((100,300))
 pen.lineTo((100,400))
 pen.lineTo((0,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000448"))
 pen = glyph.glyphPen()
@@ -15776,7 +15776,7 @@ pen.lineTo((700,700))
 pen.lineTo((700,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000449"))
 pen = glyph.glyphPen()
@@ -15799,7 +15799,7 @@ pen.lineTo((600,-100))
 pen.lineTo((600,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000044a"))
 pen = glyph.glyphPen()
@@ -15825,7 +15825,7 @@ pen.lineTo((400,300))
 pen.lineTo((400,100))
 pen.lineTo((500,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000044b"))
 pen = glyph.glyphPen()
@@ -15850,7 +15850,7 @@ pen.lineTo((400,300))
 pen.lineTo((400,100))
 pen.lineTo((300,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000044c"))
 pen = glyph.glyphPen()
@@ -15876,7 +15876,7 @@ pen.lineTo((400,300))
 pen.lineTo((400,100))
 pen.lineTo((500,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000044d"))
 pen = glyph.glyphPen()
@@ -15905,7 +15905,7 @@ pen.lineTo((200,500))
 pen.lineTo((0,500))
 pen.lineTo((0,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000044e"))
 pen = glyph.glyphPen()
@@ -15935,7 +15935,7 @@ pen.lineTo((400,100))
 pen.lineTo((500,100))
 pen.lineTo((500,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000044f"))
 pen = glyph.glyphPen()
@@ -15965,7 +15965,7 @@ pen.lineTo((300,600))
 pen.lineTo((300,400))
 pen.lineTo((400,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000450"))
 pen = glyph.glyphPen()
@@ -16006,7 +16006,7 @@ pen.lineTo((200,500))
 pen.lineTo((500,500))
 pen.lineTo((500,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000451"))
 pen = glyph.glyphPen()
@@ -16044,7 +16044,7 @@ pen.lineTo((200,500))
 pen.lineTo((500,500))
 pen.lineTo((500,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000452"))
 pen = glyph.glyphPen()
@@ -16080,7 +16080,7 @@ pen.lineTo((400,-200))
 pen.lineTo((500,-200))
 pen.lineTo((500,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000453"))
 pen = glyph.glyphPen()
@@ -16114,7 +16114,7 @@ pen.lineTo((0,100))
 pen.lineTo((100,100))
 pen.lineTo((100,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000454"))
 pen = glyph.glyphPen()
@@ -16143,7 +16143,7 @@ pen.lineTo((100,100))
 pen.lineTo((0,100))
 pen.lineTo((0,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000455"))
 pen = glyph.glyphPen()
@@ -16184,7 +16184,7 @@ pen.lineTo((100,500))
 pen.lineTo((0,500))
 pen.lineTo((0,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000456"))
 pen = glyph.glyphPen()
@@ -16204,7 +16204,7 @@ pen.lineTo((200,100))
 pen.lineTo((300,100))
 pen.lineTo((300,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000457"))
 pen = glyph.glyphPen()
@@ -16229,7 +16229,7 @@ pen.lineTo((200,100))
 pen.lineTo((300,100))
 pen.lineTo((300,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000458"))
 pen = glyph.glyphPen()
@@ -16253,7 +16253,7 @@ pen.lineTo((200,-200))
 pen.lineTo((400,-200))
 pen.lineTo((400,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000459"))
 pen = glyph.glyphPen()
@@ -16279,7 +16279,7 @@ pen.lineTo((700,300))
 pen.lineTo((700,100))
 pen.lineTo((600,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000045a"))
 pen = glyph.glyphPen()
@@ -16307,7 +16307,7 @@ pen.lineTo((700,300))
 pen.lineTo((700,100))
 pen.lineTo((600,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000045b"))
 pen = glyph.glyphPen()
@@ -16334,7 +16334,7 @@ pen.lineTo((100,800))
 pen.lineTo((0,800))
 pen.lineTo((0,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000045c"))
 pen = glyph.glyphPen()
@@ -16380,7 +16380,7 @@ pen.lineTo((0,100))
 pen.lineTo((100,100))
 pen.lineTo((100,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000045d"))
 pen = glyph.glyphPen()
@@ -16418,7 +16418,7 @@ pen.lineTo((200,100))
 pen.lineTo((200,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000045e"))
 pen = glyph.glyphPen()
@@ -16456,7 +16456,7 @@ pen.lineTo((100,0))
 pen.lineTo((100,100))
 pen.lineTo((0,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000045f"))
 pen = glyph.glyphPen()
@@ -16481,7 +16481,7 @@ pen.lineTo((0,100))
 pen.lineTo((100,100))
 pen.lineTo((100,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000490"))
 pen = glyph.glyphPen()
@@ -16502,7 +16502,7 @@ pen.lineTo((500,1000))
 pen.lineTo((500,1100))
 pen.lineTo((600,1100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000491"))
 pen = glyph.glyphPen()
@@ -16523,7 +16523,7 @@ pen.lineTo((500,700))
 pen.lineTo((500,800))
 pen.lineTo((600,800))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005be"))
 pen = glyph.glyphPen()
@@ -16532,7 +16532,7 @@ pen.lineTo((100,800))
 pen.lineTo((700,800))
 pen.lineTo((700,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005d0"))
 pen = glyph.glyphPen()
@@ -16565,7 +16565,7 @@ pen.lineTo((100,400))
 pen.lineTo((100,600))
 pen.lineTo((0,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005d1"))
 pen = glyph.glyphPen()
@@ -16582,7 +16582,7 @@ pen.lineTo((0,100))
 pen.lineTo((400,100))
 pen.lineTo((400,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005d2"))
 pen = glyph.glyphPen()
@@ -16609,7 +16609,7 @@ pen.lineTo((300,300))
 pen.lineTo((400,300))
 pen.lineTo((400,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005d3"))
 pen = glyph.glyphPen()
@@ -16622,7 +16622,7 @@ pen.lineTo((600,0))
 pen.lineTo((400,0))
 pen.lineTo((400,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005d4"))
 pen = glyph.glyphPen()
@@ -16640,7 +16640,7 @@ pen.lineTo((200,400))
 pen.lineTo((200,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005d5"))
 pen = glyph.glyphPen()
@@ -16653,7 +16653,7 @@ pen.lineTo((500,0))
 pen.lineTo((300,0))
 pen.lineTo((300,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005d6"))
 pen = glyph.glyphPen()
@@ -16678,7 +16678,7 @@ pen.lineTo((300,400))
 pen.lineTo((200,400))
 pen.lineTo((200,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005d7"))
 pen = glyph.glyphPen()
@@ -16699,7 +16699,7 @@ pen.lineTo((0,600))
 pen.lineTo((100,600))
 pen.lineTo((100,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005d8"))
 pen = glyph.glyphPen()
@@ -16725,7 +16725,7 @@ pen.lineTo((400,700))
 pen.lineTo((400,500))
 pen.lineTo((300,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005d9"))
 pen = glyph.glyphPen()
@@ -16742,7 +16742,7 @@ pen.lineTo((200,400))
 pen.lineTo((300,400))
 pen.lineTo((300,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005da"))
 pen = glyph.glyphPen()
@@ -16761,7 +16761,7 @@ pen.lineTo((400,400))
 pen.lineTo((500,400))
 pen.lineTo((500,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005db"))
 pen = glyph.glyphPen()
@@ -16778,7 +16778,7 @@ pen.lineTo((0,100))
 pen.lineTo((500,100))
 pen.lineTo((500,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005dc"))
 pen = glyph.glyphPen()
@@ -16801,7 +16801,7 @@ pen.lineTo((500,300))
 pen.lineTo((500,700))
 pen.lineTo((0,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005dd"))
 pen = glyph.glyphPen()
@@ -16823,7 +16823,7 @@ pen.lineTo((200,100))
 pen.lineTo((500,100))
 pen.lineTo((500,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005de"))
 pen = glyph.glyphPen()
@@ -16852,7 +16852,7 @@ pen.lineTo((0,500))
 pen.lineTo((100,500))
 pen.lineTo((100,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005df"))
 pen = glyph.glyphPen()
@@ -16871,7 +16871,7 @@ pen.lineTo((300,500))
 pen.lineTo((400,500))
 pen.lineTo((400,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005e0"))
 pen = glyph.glyphPen()
@@ -16886,7 +16886,7 @@ pen.lineTo((100,100))
 pen.lineTo((400,100))
 pen.lineTo((400,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005e1"))
 pen = glyph.glyphPen()
@@ -16916,7 +16916,7 @@ pen.lineTo((400,200))
 pen.lineTo((500,200))
 pen.lineTo((500,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005e2"))
 pen = glyph.glyphPen()
@@ -16943,7 +16943,7 @@ pen.lineTo((200,200))
 pen.lineTo((100,200))
 pen.lineTo((100,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005e3"))
 pen = glyph.glyphPen()
@@ -16966,7 +16966,7 @@ pen.lineTo((0,600))
 pen.lineTo((100,600))
 pen.lineTo((100,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005e4"))
 pen = glyph.glyphPen()
@@ -16989,7 +16989,7 @@ pen.lineTo((0,600))
 pen.lineTo((100,600))
 pen.lineTo((100,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005e5"))
 pen = glyph.glyphPen()
@@ -17016,7 +17016,7 @@ pen.lineTo((400,-300))
 pen.lineTo((100,-300))
 pen.lineTo((100,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005e6"))
 pen = glyph.glyphPen()
@@ -17054,7 +17054,7 @@ pen.lineTo((600,400))
 pen.lineTo((500,400))
 pen.lineTo((500,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005e7"))
 pen = glyph.glyphPen()
@@ -17078,7 +17078,7 @@ pen.lineTo((300,500))
 pen.lineTo((300,-300))
 pen.lineTo((100,-300))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005e8"))
 pen = glyph.glyphPen()
@@ -17091,7 +17091,7 @@ pen.lineTo((700,0))
 pen.lineTo((500,0))
 pen.lineTo((500,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005e9"))
 pen = glyph.glyphPen()
@@ -17114,7 +17114,7 @@ pen.lineTo((100,0))
 pen.lineTo((100,100))
 pen.lineTo((0,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005ea"))
 pen = glyph.glyphPen()
@@ -17133,7 +17133,7 @@ pen.lineTo((0,200))
 pen.lineTo((100,200))
 pen.lineTo((100,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005f0"))
 pen = glyph.glyphPen()
@@ -17155,7 +17155,7 @@ pen.lineTo((700,0))
 pen.lineTo((500,0))
 pen.lineTo((500,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005f1"))
 pen = glyph.glyphPen()
@@ -17177,7 +17177,7 @@ pen.lineTo((700,0))
 pen.lineTo((500,0))
 pen.lineTo((500,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005f2"))
 pen = glyph.glyphPen()
@@ -17199,7 +17199,7 @@ pen.lineTo((700,400))
 pen.lineTo((500,400))
 pen.lineTo((500,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005f3"))
 pen = glyph.glyphPen()
@@ -17212,7 +17212,7 @@ pen.lineTo((200,600))
 pen.lineTo((200,700))
 pen.lineTo((300,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000005f4"))
 pen = glyph.glyphPen()
@@ -17234,7 +17234,7 @@ pen.lineTo((400,600))
 pen.lineTo((400,700))
 pen.lineTo((500,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00001d1b"))
 pen = glyph.glyphPen()
@@ -17257,7 +17257,7 @@ pen.lineTo((200,600))
 pen.lineTo((0,600))
 pen.lineTo((0,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00001d26"))
 pen = glyph.glyphPen()
@@ -17270,7 +17270,7 @@ pen.lineTo((200,900))
 pen.lineTo((200,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00001d28"))
 pen = glyph.glyphPen()
@@ -17287,7 +17287,7 @@ pen.lineTo((300,0))
 pen.lineTo((100,0))
 pen.lineTo((100,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00001d62"))
 pen = glyph.glyphPen()
@@ -17307,7 +17307,7 @@ pen.lineTo((100,-200))
 pen.lineTo((200,-200))
 pen.lineTo((200,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00001d63"))
 pen = glyph.glyphPen()
@@ -17333,7 +17333,7 @@ pen.lineTo((700,-100))
 pen.lineTo((500,-100))
 pen.lineTo((500,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00001d64"))
 pen = glyph.glyphPen()
@@ -17348,7 +17348,7 @@ pen.lineTo((200,-300))
 pen.lineTo((200,-200))
 pen.lineTo((100,-200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00001d65"))
 pen = glyph.glyphPen()
@@ -17369,7 +17369,7 @@ pen.lineTo((200,-200))
 pen.lineTo((200,-100))
 pen.lineTo((100,-100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00001e80"))
 pen = glyph.glyphPen()
@@ -17403,7 +17403,7 @@ pen.lineTo((100,0))
 pen.lineTo((100,100))
 pen.lineTo((0,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00001e81"))
 pen = glyph.glyphPen()
@@ -17441,7 +17441,7 @@ pen.lineTo((100,0))
 pen.lineTo((100,100))
 pen.lineTo((0,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00001e82"))
 pen = glyph.glyphPen()
@@ -17475,7 +17475,7 @@ pen.lineTo((100,0))
 pen.lineTo((100,100))
 pen.lineTo((0,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00001e83"))
 pen = glyph.glyphPen()
@@ -17513,7 +17513,7 @@ pen.lineTo((100,0))
 pen.lineTo((100,100))
 pen.lineTo((0,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00001e84"))
 pen = glyph.glyphPen()
@@ -17548,7 +17548,7 @@ pen.lineTo((100,0))
 pen.lineTo((100,100))
 pen.lineTo((0,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00001e85"))
 pen = glyph.glyphPen()
@@ -17583,7 +17583,7 @@ pen.lineTo((100,0))
 pen.lineTo((100,100))
 pen.lineTo((0,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00001e9f"))
 pen = glyph.glyphPen()
@@ -17619,7 +17619,7 @@ pen.lineTo((300,100))
 pen.lineTo((500,100))
 pen.lineTo((500,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00001ef2"))
 pen = glyph.glyphPen()
@@ -17653,7 +17653,7 @@ pen.lineTo((200,400))
 pen.lineTo((200,500))
 pen.lineTo((100,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00001ef3"))
 pen = glyph.glyphPen()
@@ -17691,7 +17691,7 @@ pen.lineTo((100,0))
 pen.lineTo((100,100))
 pen.lineTo((0,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002010"))
 pen = glyph.glyphPen()
@@ -17700,7 +17700,7 @@ pen.lineTo((100,500))
 pen.lineTo((700,500))
 pen.lineTo((700,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002012"))
 pen = glyph.glyphPen()
@@ -17709,7 +17709,7 @@ pen.lineTo((100,500))
 pen.lineTo((600,500))
 pen.lineTo((600,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002013"))
 pen = glyph.glyphPen()
@@ -17718,7 +17718,7 @@ pen.lineTo((100,500))
 pen.lineTo((600,500))
 pen.lineTo((600,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002014"))
 pen = glyph.glyphPen()
@@ -17727,7 +17727,7 @@ pen.lineTo((0,500))
 pen.lineTo((800,500))
 pen.lineTo((800,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002015"))
 pen = glyph.glyphPen()
@@ -17736,7 +17736,7 @@ pen.lineTo((0,500))
 pen.lineTo((800,500))
 pen.lineTo((800,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002017"))
 pen = glyph.glyphPen()
@@ -17750,7 +17750,7 @@ pen.lineTo((0,-200))
 pen.lineTo((800,-200))
 pen.lineTo((800,-300))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002018"))
 pen = glyph.glyphPen()
@@ -17763,7 +17763,7 @@ pen.lineTo((400,800))
 pen.lineTo((200,800))
 pen.lineTo((200,1000))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002019"))
 pen = glyph.glyphPen()
@@ -17776,7 +17776,7 @@ pen.lineTo((200,800))
 pen.lineTo((200,900))
 pen.lineTo((300,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000201a"))
 pen = glyph.glyphPen()
@@ -17789,7 +17789,7 @@ pen.lineTo((200,-300))
 pen.lineTo((200,-200))
 pen.lineTo((300,-200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000201b"))
 pen = glyph.glyphPen()
@@ -17802,7 +17802,7 @@ pen.lineTo((300,800))
 pen.lineTo((300,900))
 pen.lineTo((200,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000201c"))
 pen = glyph.glyphPen()
@@ -17824,7 +17824,7 @@ pen.lineTo((600,800))
 pen.lineTo((400,800))
 pen.lineTo((400,1000))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000201d"))
 pen = glyph.glyphPen()
@@ -17846,7 +17846,7 @@ pen.lineTo((400,800))
 pen.lineTo((400,900))
 pen.lineTo((500,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000201e"))
 pen = glyph.glyphPen()
@@ -17868,7 +17868,7 @@ pen.lineTo((400,-300))
 pen.lineTo((400,-200))
 pen.lineTo((500,-200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000201f"))
 pen = glyph.glyphPen()
@@ -17890,7 +17890,7 @@ pen.lineTo((500,800))
 pen.lineTo((500,900))
 pen.lineTo((400,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002020"))
 pen = glyph.glyphPen()
@@ -17907,7 +17907,7 @@ pen.lineTo((100,600))
 pen.lineTo((100,700))
 pen.lineTo((300,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002021"))
 pen = glyph.glyphPen()
@@ -17932,7 +17932,7 @@ pen.lineTo((100,600))
 pen.lineTo((100,700))
 pen.lineTo((300,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002022"))
 pen = glyph.glyphPen()
@@ -17949,7 +17949,7 @@ pen.lineTo((300,300))
 pen.lineTo((200,300))
 pen.lineTo((200,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002026"))
 pen = glyph.glyphPen()
@@ -17968,7 +17968,7 @@ pen.lineTo((800,200))
 pen.lineTo((800,0))
 pen.lineTo((600,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002027"))
 pen = glyph.glyphPen()
@@ -17977,7 +17977,7 @@ pen.lineTo((500,500))
 pen.lineTo((500,300))
 pen.lineTo((300,300))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002030"))
 pen = glyph.glyphPen()
@@ -18021,7 +18021,7 @@ pen.lineTo((800,200))
 pen.lineTo((800,0))
 pen.lineTo((600,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002032"))
 pen = glyph.glyphPen()
@@ -18038,7 +18038,7 @@ pen.lineTo((200,900))
 pen.lineTo((300,900))
 pen.lineTo((300,1000))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002033"))
 pen = glyph.glyphPen()
@@ -18068,7 +18068,7 @@ pen.lineTo((300,900))
 pen.lineTo((400,900))
 pen.lineTo((400,1000))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002035"))
 pen = glyph.glyphPen()
@@ -18085,7 +18085,7 @@ pen.lineTo((400,900))
 pen.lineTo((300,900))
 pen.lineTo((300,1000))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002039"))
 pen = glyph.glyphPen()
@@ -18110,7 +18110,7 @@ pen.lineTo((200,500))
 pen.lineTo((300,500))
 pen.lineTo((300,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000203a"))
 pen = glyph.glyphPen()
@@ -18135,7 +18135,7 @@ pen.lineTo((400,500))
 pen.lineTo((300,500))
 pen.lineTo((300,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000203c"))
 pen = glyph.glyphPen()
@@ -18170,7 +18170,7 @@ pen.lineTo((600,200))
 pen.lineTo((600,0))
 pen.lineTo((400,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000203e"))
 pen = glyph.glyphPen()
@@ -18179,7 +18179,7 @@ pen.lineTo((100,1100))
 pen.lineTo((700,1100))
 pen.lineTo((700,1000))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000203f"))
 pen = glyph.glyphPen()
@@ -18196,7 +18196,7 @@ pen.lineTo((600,-300))
 pen.lineTo((100,-300))
 pen.lineTo((100,-200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002040"))
 pen = glyph.glyphPen()
@@ -18213,7 +18213,7 @@ pen.lineTo((200,900))
 pen.lineTo((0,900))
 pen.lineTo((0,1000))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002044"))
 pen = glyph.glyphPen()
@@ -18246,7 +18246,7 @@ pen.lineTo((500,600))
 pen.lineTo((500,700))
 pen.lineTo((600,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002054"))
 pen = glyph.glyphPen()
@@ -18263,7 +18263,7 @@ pen.lineTo((200,-300))
 pen.lineTo((0,-300))
 pen.lineTo((0,-200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002070"))
 pen = glyph.glyphPen()
@@ -18289,7 +18289,7 @@ pen.lineTo((200,700))
 pen.lineTo((200,800))
 pen.lineTo((300,800))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002074"))
 pen = glyph.glyphPen()
@@ -18310,7 +18310,7 @@ pen.lineTo((300,900))
 pen.lineTo((200,900))
 pen.lineTo((200,1000))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002075"))
 pen = glyph.glyphPen()
@@ -18331,7 +18331,7 @@ pen.lineTo((300,600))
 pen.lineTo((300,800))
 pen.lineTo((0,800))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002076"))
 pen = glyph.glyphPen()
@@ -18357,7 +18357,7 @@ pen.lineTo((200,800))
 pen.lineTo((200,600))
 pen.lineTo((300,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002077"))
 pen = glyph.glyphPen()
@@ -18378,7 +18378,7 @@ pen.lineTo((100,1000))
 pen.lineTo((100,900))
 pen.lineTo((0,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002078"))
 pen = glyph.glyphPen()
@@ -18413,7 +18413,7 @@ pen.lineTo((200,800))
 pen.lineTo((200,600))
 pen.lineTo((300,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002079"))
 pen = glyph.glyphPen()
@@ -18439,7 +18439,7 @@ pen.lineTo((200,1000))
 pen.lineTo((200,800))
 pen.lineTo((300,800))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000207a"))
 pen = glyph.glyphPen()
@@ -18456,7 +18456,7 @@ pen.lineTo((0,800))
 pen.lineTo((0,900))
 pen.lineTo((200,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000207b"))
 pen = glyph.glyphPen()
@@ -18465,7 +18465,7 @@ pen.lineTo((100,900))
 pen.lineTo((600,900))
 pen.lineTo((600,800))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000207f"))
 pen = glyph.glyphPen()
@@ -18487,7 +18487,7 @@ pen.lineTo((600,500))
 pen.lineTo((400,500))
 pen.lineTo((400,1000))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002080"))
 pen = glyph.glyphPen()
@@ -18513,7 +18513,7 @@ pen.lineTo((300,-100))
 pen.lineTo((300,0))
 pen.lineTo((400,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002081"))
 pen = glyph.glyphPen()
@@ -18530,7 +18530,7 @@ pen.lineTo((200,100))
 pen.lineTo((100,100))
 pen.lineTo((100,200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002082"))
 pen = glyph.glyphPen()
@@ -18563,7 +18563,7 @@ pen.lineTo((200,100))
 pen.lineTo((0,100))
 pen.lineTo((0,200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002083"))
 pen = glyph.glyphPen()
@@ -18588,7 +18588,7 @@ pen.lineTo((100,100))
 pen.lineTo((300,100))
 pen.lineTo((300,200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002084"))
 pen = glyph.glyphPen()
@@ -18609,7 +18609,7 @@ pen.lineTo((300,100))
 pen.lineTo((200,100))
 pen.lineTo((200,200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002085"))
 pen = glyph.glyphPen()
@@ -18630,7 +18630,7 @@ pen.lineTo((300,-200))
 pen.lineTo((300,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002086"))
 pen = glyph.glyphPen()
@@ -18656,7 +18656,7 @@ pen.lineTo((200,0))
 pen.lineTo((200,-200))
 pen.lineTo((300,-200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002087"))
 pen = glyph.glyphPen()
@@ -18677,7 +18677,7 @@ pen.lineTo((100,200))
 pen.lineTo((100,100))
 pen.lineTo((0,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002088"))
 pen = glyph.glyphPen()
@@ -18712,7 +18712,7 @@ pen.lineTo((200,0))
 pen.lineTo((200,-200))
 pen.lineTo((300,-200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002089"))
 pen = glyph.glyphPen()
@@ -18738,7 +18738,7 @@ pen.lineTo((200,200))
 pen.lineTo((200,0))
 pen.lineTo((300,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000208a"))
 pen = glyph.glyphPen()
@@ -18755,7 +18755,7 @@ pen.lineTo((0,-100))
 pen.lineTo((0,0))
 pen.lineTo((200,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000208b"))
 pen = glyph.glyphPen()
@@ -18764,7 +18764,7 @@ pen.lineTo((100,0))
 pen.lineTo((600,0))
 pen.lineTo((600,-100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002090"))
 pen = glyph.glyphPen()
@@ -18787,7 +18787,7 @@ pen.lineTo((200,-200))
 pen.lineTo((100,-200))
 pen.lineTo((100,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002091"))
 pen = glyph.glyphPen()
@@ -18811,7 +18811,7 @@ pen.lineTo((300,0))
 pen.lineTo((500,0))
 pen.lineTo((500,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002092"))
 pen = glyph.glyphPen()
@@ -18833,7 +18833,7 @@ pen.lineTo((300,100))
 pen.lineTo((300,-200))
 pen.lineTo((400,-200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002093"))
 pen = glyph.glyphPen()
@@ -18858,7 +18858,7 @@ pen.lineTo((100,-200))
 pen.lineTo((200,-200))
 pen.lineTo((200,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002094"))
 pen = glyph.glyphPen()
@@ -18882,7 +18882,7 @@ pen.lineTo((300,-200))
 pen.lineTo((500,-200))
 pen.lineTo((500,-100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002095"))
 pen = glyph.glyphPen()
@@ -18907,7 +18907,7 @@ pen.lineTo((0,-200))
 pen.lineTo((100,-200))
 pen.lineTo((100,300))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002096"))
 pen = glyph.glyphPen()
@@ -18932,7 +18932,7 @@ pen.lineTo((0,-200))
 pen.lineTo((100,-200))
 pen.lineTo((100,300))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002097"))
 pen = glyph.glyphPen()
@@ -18947,7 +18947,7 @@ pen.lineTo((100,-200))
 pen.lineTo((200,-200))
 pen.lineTo((200,300))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002098"))
 pen = glyph.glyphPen()
@@ -18970,7 +18970,7 @@ pen.lineTo((300,0))
 pen.lineTo((300,-300))
 pen.lineTo((100,-300))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002099"))
 pen = glyph.glyphPen()
@@ -18991,7 +18991,7 @@ pen.lineTo((300,-300))
 pen.lineTo((100,-300))
 pen.lineTo((100,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000209a"))
 pen = glyph.glyphPen()
@@ -19017,7 +19017,7 @@ pen.lineTo((400,100))
 pen.lineTo((400,-100))
 pen.lineTo((500,-100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000209b"))
 pen = glyph.glyphPen()
@@ -19038,7 +19038,7 @@ pen.lineTo((400,-100))
 pen.lineTo((200,-100))
 pen.lineTo((200,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000209c"))
 pen = glyph.glyphPen()
@@ -19063,7 +19063,7 @@ pen.lineTo((200,100))
 pen.lineTo((200,300))
 pen.lineTo((300,300))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000020a3"))
 pen = glyph.glyphPen()
@@ -19100,7 +19100,7 @@ pen.lineTo((0,300))
 pen.lineTo((100,300))
 pen.lineTo((100,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000020a4"))
 pen = glyph.glyphPen()
@@ -19143,7 +19143,7 @@ pen.lineTo((0,700))
 pen.lineTo((100,700))
 pen.lineTo((100,1000))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000020a7"))
 pen = glyph.glyphPen()
@@ -19182,7 +19182,7 @@ pen.lineTo((400,500))
 pen.lineTo((400,600))
 pen.lineTo((500,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000020aa"))
 pen = glyph.glyphPen()
@@ -19204,7 +19204,7 @@ pen.lineTo((300,600))
 pen.lineTo((300,200))
 pen.lineTo((600,200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000020ac"))
 pen = glyph.glyphPen()
@@ -19253,7 +19253,7 @@ pen.lineTo((100,700))
 pen.lineTo((200,700))
 pen.lineTo((200,800))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000020b3"))
 pen = glyph.glyphPen()
@@ -19300,7 +19300,7 @@ pen.lineTo((200,300))
 pen.lineTo((500,300))
 pen.lineTo((500,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002102"))
 pen = glyph.glyphPen()
@@ -19338,7 +19338,7 @@ pen.lineTo((100,800))
 pen.lineTo((100,200))
 pen.lineTo((0,200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002105"))
 pen = glyph.glyphPen()
@@ -19412,7 +19412,7 @@ pen.lineTo((400,200))
 pen.lineTo((400,-100))
 pen.lineTo((500,-100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002111"))
 pen = glyph.glyphPen()
@@ -19447,7 +19447,7 @@ pen.lineTo((400,900))
 pen.lineTo((500,900))
 pen.lineTo((500,1000))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002113"))
 pen = glyph.glyphPen()
@@ -19493,7 +19493,7 @@ pen.lineTo((700,200))
 pen.lineTo((700,100))
 pen.lineTo((600,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002115"))
 pen = glyph.glyphPen()
@@ -19549,7 +19549,7 @@ pen.lineTo((500,300))
 pen.lineTo((500,100))
 pen.lineTo((400,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002116"))
 pen = glyph.glyphPen()
@@ -19583,7 +19583,7 @@ pen.lineTo((600,900))
 pen.lineTo((600,700))
 pen.lineTo((700,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000211c"))
 pen = glyph.glyphPen()
@@ -19634,7 +19634,7 @@ pen.lineTo((500,600))
 pen.lineTo((600,600))
 pen.lineTo((600,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000211d"))
 pen = glyph.glyphPen()
@@ -19689,7 +19689,7 @@ pen.lineTo((800,200))
 pen.lineTo((800,0))
 pen.lineTo((500,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002122"))
 pen = glyph.glyphPen()
@@ -19722,7 +19722,7 @@ pen.lineTo((600,900))
 pen.lineTo((600,800))
 pen.lineTo((500,800))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002124"))
 pen = glyph.glyphPen()
@@ -19796,7 +19796,7 @@ pen.lineTo((600,100))
 pen.lineTo((600,200))
 pen.lineTo((700,200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002126"))
 pen = glyph.glyphPen()
@@ -19833,7 +19833,7 @@ pen.lineTo((0,800))
 pen.lineTo((100,800))
 pen.lineTo((100,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000212e"))
 pen = glyph.glyphPen()
@@ -19861,7 +19861,7 @@ pen.lineTo((200,500))
 pen.lineTo((500,500))
 pen.lineTo((500,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000213c"))
 pen = glyph.glyphPen()
@@ -19885,7 +19885,7 @@ pen.lineTo((200,600))
 pen.lineTo((200,100))
 pen.lineTo((300,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002146"))
 pen = glyph.glyphPen()
@@ -19927,7 +19927,7 @@ pen.lineTo((300,500))
 pen.lineTo((300,200))
 pen.lineTo((200,200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002147"))
 pen = glyph.glyphPen()
@@ -19959,7 +19959,7 @@ pen.lineTo((100,600))
 pen.lineTo((100,100))
 pen.lineTo((0,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002148"))
 pen = glyph.glyphPen()
@@ -19989,7 +19989,7 @@ pen.lineTo((300,600))
 pen.lineTo((300,100))
 pen.lineTo((400,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002150"))
 pen = glyph.glyphPen()
@@ -20042,7 +20042,7 @@ pen.lineTo((400,100))
 pen.lineTo((500,100))
 pen.lineTo((500,200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002151"))
 pen = glyph.glyphPen()
@@ -20102,7 +20102,7 @@ pen.lineTo((400,200))
 pen.lineTo((400,100))
 pen.lineTo((500,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002153"))
 pen = glyph.glyphPen()
@@ -20161,7 +20161,7 @@ pen.lineTo((300,100))
 pen.lineTo((500,100))
 pen.lineTo((500,200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002154"))
 pen = glyph.glyphPen()
@@ -20229,7 +20229,7 @@ pen.lineTo((300,100))
 pen.lineTo((500,100))
 pen.lineTo((500,200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002155"))
 pen = glyph.glyphPen()
@@ -20284,7 +20284,7 @@ pen.lineTo((500,-100))
 pen.lineTo((500,0))
 pen.lineTo((300,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002156"))
 pen = glyph.glyphPen()
@@ -20348,7 +20348,7 @@ pen.lineTo((500,-100))
 pen.lineTo((500,0))
 pen.lineTo((300,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002157"))
 pen = glyph.glyphPen()
@@ -20419,7 +20419,7 @@ pen.lineTo((500,-100))
 pen.lineTo((500,0))
 pen.lineTo((300,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002158"))
 pen = glyph.glyphPen()
@@ -20481,7 +20481,7 @@ pen.lineTo((500,-100))
 pen.lineTo((500,0))
 pen.lineTo((300,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002159"))
 pen = glyph.glyphPen()
@@ -20541,7 +20541,7 @@ pen.lineTo((400,0))
 pen.lineTo((400,-100))
 pen.lineTo((500,-100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000215a"))
 pen = glyph.glyphPen()
@@ -20613,7 +20613,7 @@ pen.lineTo((400,0))
 pen.lineTo((400,-100))
 pen.lineTo((500,-100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000215b"))
 pen = glyph.glyphPen()
@@ -20682,7 +20682,7 @@ pen.lineTo((400,0))
 pen.lineTo((400,-100))
 pen.lineTo((500,-100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000215c"))
 pen = glyph.glyphPen()
@@ -20767,7 +20767,7 @@ pen.lineTo((400,0))
 pen.lineTo((400,-100))
 pen.lineTo((500,-100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000215d"))
 pen = glyph.glyphPen()
@@ -20848,7 +20848,7 @@ pen.lineTo((400,0))
 pen.lineTo((400,-100))
 pen.lineTo((500,-100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000215e"))
 pen = glyph.glyphPen()
@@ -20927,7 +20927,7 @@ pen.lineTo((400,0))
 pen.lineTo((400,-100))
 pen.lineTo((500,-100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002190"))
 pen = glyph.glyphPen()
@@ -20952,7 +20952,7 @@ pen.lineTo((0,500))
 pen.lineTo((100,500))
 pen.lineTo((100,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002191"))
 pen = glyph.glyphPen()
@@ -20973,7 +20973,7 @@ pen.lineTo((100,800))
 pen.lineTo((200,800))
 pen.lineTo((200,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002192"))
 pen = glyph.glyphPen()
@@ -20998,7 +20998,7 @@ pen.lineTo((0,500))
 pen.lineTo((400,500))
 pen.lineTo((400,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002193"))
 pen = glyph.glyphPen()
@@ -21019,7 +21019,7 @@ pen.lineTo((100,200))
 pen.lineTo((100,300))
 pen.lineTo((300,300))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002194"))
 pen = glyph.glyphPen()
@@ -21052,7 +21052,7 @@ pen.lineTo((100,500))
 pen.lineTo((100,600))
 pen.lineTo((200,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002195"))
 pen = glyph.glyphPen()
@@ -21085,7 +21085,7 @@ pen.lineTo((100,800))
 pen.lineTo((200,800))
 pen.lineTo((200,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000021a6"))
 pen = glyph.glyphPen()
@@ -21114,7 +21114,7 @@ pen.lineTo((100,600))
 pen.lineTo((500,600))
 pen.lineTo((500,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000021a8"))
 pen = glyph.glyphPen()
@@ -21151,7 +21151,7 @@ pen.lineTo((100,800))
 pen.lineTo((200,800))
 pen.lineTo((200,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000021d2"))
 pen = glyph.glyphPen()
@@ -21186,7 +21186,7 @@ pen.lineTo((500,300))
 pen.lineTo((500,200))
 pen.lineTo((400,200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002200"))
 pen = glyph.glyphPen()
@@ -21220,7 +21220,7 @@ pen.lineTo((400,500))
 pen.lineTo((500,500))
 pen.lineTo((500,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002202"))
 pen = glyph.glyphPen()
@@ -21262,7 +21262,7 @@ pen.lineTo((400,200))
 pen.lineTo((500,200))
 pen.lineTo((500,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002203"))
 pen = glyph.glyphPen()
@@ -21279,7 +21279,7 @@ pen.lineTo((0,600))
 pen.lineTo((500,600))
 pen.lineTo((500,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002204"))
 pen = glyph.glyphPen()
@@ -21320,7 +21320,7 @@ pen.lineTo((300,200))
 pen.lineTo((300,100))
 pen.lineTo((500,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002205"))
 pen = glyph.glyphPen()
@@ -21361,7 +21361,7 @@ pen.lineTo((400,400))
 pen.lineTo((400,300))
 pen.lineTo((600,300))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002206"))
 pen = glyph.glyphPen()
@@ -21391,7 +21391,7 @@ pen.lineTo((500,200))
 pen.lineTo((500,600))
 pen.lineTo((400,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002207"))
 pen = glyph.glyphPen()
@@ -21421,7 +21421,7 @@ pen.lineTo((400,400))
 pen.lineTo((500,400))
 pen.lineTo((500,800))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002208"))
 pen = glyph.glyphPen()
@@ -21450,7 +21450,7 @@ pen.lineTo((100,800))
 pen.lineTo((200,800))
 pen.lineTo((200,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000220f"))
 pen = glyph.glyphPen()
@@ -21463,7 +21463,7 @@ pen.lineTo((200,900))
 pen.lineTo((200,-200))
 pen.lineTo((0,-200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002211"))
 pen = glyph.glyphPen()
@@ -21504,7 +21504,7 @@ pen.lineTo((100,600))
 pen.lineTo((100,700))
 pen.lineTo((0,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002212"))
 pen = glyph.glyphPen()
@@ -21513,7 +21513,7 @@ pen.lineTo((0,500))
 pen.lineTo((700,500))
 pen.lineTo((700,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002215"))
 pen = glyph.glyphPen()
@@ -21546,7 +21546,7 @@ pen.lineTo((500,600))
 pen.lineTo((500,700))
 pen.lineTo((600,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002216"))
 pen = glyph.glyphPen()
@@ -21575,7 +21575,7 @@ pen.lineTo((600,200))
 pen.lineTo((600,0))
 pen.lineTo((500,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002218"))
 pen = glyph.glyphPen()
@@ -21599,7 +21599,7 @@ pen.lineTo((200,400))
 pen.lineTo((400,400))
 pen.lineTo((400,300))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002219"))
 pen = glyph.glyphPen()
@@ -21608,7 +21608,7 @@ pen.lineTo((500,500))
 pen.lineTo((500,300))
 pen.lineTo((300,300))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000221a"))
 pen = glyph.glyphPen()
@@ -21629,7 +21629,7 @@ pen.lineTo((300,500))
 pen.lineTo((300,200))
 pen.lineTo((400,200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000221b"))
 pen = glyph.glyphPen()
@@ -21675,7 +21675,7 @@ pen.lineTo((0,700))
 pen.lineTo((200,700))
 pen.lineTo((200,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000221c"))
 pen = glyph.glyphPen()
@@ -21711,7 +21711,7 @@ pen.lineTo((300,500))
 pen.lineTo((300,200))
 pen.lineTo((400,200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000221e"))
 pen = glyph.glyphPen()
@@ -21738,7 +21738,7 @@ pen.lineTo((500,600))
 pen.lineTo((500,300))
 pen.lineTo((600,300))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000221f"))
 pen = glyph.glyphPen()
@@ -21749,7 +21749,7 @@ pen.lineTo((700,300))
 pen.lineTo((700,200))
 pen.lineTo((0,200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002227"))
 pen = glyph.glyphPen()
@@ -21782,7 +21782,7 @@ pen.lineTo((200,400))
 pen.lineTo((200,600))
 pen.lineTo((300,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002228"))
 pen = glyph.glyphPen()
@@ -21815,7 +21815,7 @@ pen.lineTo((100,300))
 pen.lineTo((100,500))
 pen.lineTo((0,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002229"))
 pen = glyph.glyphPen()
@@ -21832,7 +21832,7 @@ pen.lineTo((200,0))
 pen.lineTo((0,0))
 pen.lineTo((0,800))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000222a"))
 pen = glyph.glyphPen()
@@ -21849,7 +21849,7 @@ pen.lineTo((100,0))
 pen.lineTo((100,100))
 pen.lineTo((0,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000222b"))
 pen = glyph.glyphPen()
@@ -21874,7 +21874,7 @@ pen.lineTo((200,-300))
 pen.lineTo((300,-300))
 pen.lineTo((300,1100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002248"))
 pen = glyph.glyphPen()
@@ -21912,7 +21912,7 @@ pen.lineTo((200,200))
 pen.lineTo((0,200))
 pen.lineTo((0,300))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002260"))
 pen = glyph.glyphPen()
@@ -21949,7 +21949,7 @@ pen.lineTo((0,700))
 pen.lineTo((400,700))
 pen.lineTo((400,800))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002261"))
 pen = glyph.glyphPen()
@@ -21968,7 +21968,7 @@ pen.lineTo((0,200))
 pen.lineTo((700,200))
 pen.lineTo((700,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002264"))
 pen = glyph.glyphPen()
@@ -22006,7 +22006,7 @@ pen.lineTo((100,100))
 pen.lineTo((700,100))
 pen.lineTo((700,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002265"))
 pen = glyph.glyphPen()
@@ -22044,7 +22044,7 @@ pen.lineTo((100,100))
 pen.lineTo((700,100))
 pen.lineTo((700,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002282"))
 pen = glyph.glyphPen()
@@ -22073,7 +22073,7 @@ pen.lineTo((0,200))
 pen.lineTo((500,200))
 pen.lineTo((500,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002283"))
 pen = glyph.glyphPen()
@@ -22102,7 +22102,7 @@ pen.lineTo((200,200))
 pen.lineTo((700,200))
 pen.lineTo((700,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002286"))
 pen = glyph.glyphPen()
@@ -22128,7 +22128,7 @@ pen.lineTo((100,100))
 pen.lineTo((700,100))
 pen.lineTo((700,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002287"))
 pen = glyph.glyphPen()
@@ -22154,7 +22154,7 @@ pen.lineTo((100,100))
 pen.lineTo((700,100))
 pen.lineTo((700,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002295"))
 pen = glyph.glyphPen()
@@ -22195,7 +22195,7 @@ pen.lineTo((300,700))
 pen.lineTo((100,700))
 pen.lineTo((100,800))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002299"))
 pen = glyph.glyphPen()
@@ -22222,7 +22222,7 @@ pen.lineTo((400,600))
 pen.lineTo((400,400))
 pen.lineTo((300,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002300"))
 pen = glyph.glyphPen()
@@ -22257,7 +22257,7 @@ pen.lineTo((200,300))
 pen.lineTo((200,100))
 pen.lineTo((500,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002302"))
 pen = glyph.glyphPen()
@@ -22287,7 +22287,7 @@ pen.lineTo((500,200))
 pen.lineTo((500,500))
 pen.lineTo((400,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002308"))
 pen = glyph.glyphPen()
@@ -22298,7 +22298,7 @@ pen.lineTo((400,1000))
 pen.lineTo((400,0))
 pen.lineTo((200,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002309"))
 pen = glyph.glyphPen()
@@ -22309,7 +22309,7 @@ pen.lineTo((600,0))
 pen.lineTo((400,0))
 pen.lineTo((400,1000))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000230a"))
 pen = glyph.glyphPen()
@@ -22320,7 +22320,7 @@ pen.lineTo((600,-100))
 pen.lineTo((600,-200))
 pen.lineTo((200,-200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000230b"))
 pen = glyph.glyphPen()
@@ -22331,7 +22331,7 @@ pen.lineTo((200,-200))
 pen.lineTo((200,-100))
 pen.lineTo((400,-100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002310"))
 pen = glyph.glyphPen()
@@ -22342,7 +22342,7 @@ pen.lineTo((200,500))
 pen.lineTo((200,100))
 pen.lineTo((0,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002320"))
 pen = glyph.glyphPen()
@@ -22359,7 +22359,7 @@ pen.lineTo((500,-400))
 pen.lineTo((300,-400))
 pen.lineTo((300,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002321"))
 pen = glyph.glyphPen()
@@ -22376,7 +22376,7 @@ pen.lineTo((200,400))
 pen.lineTo((200,100))
 pen.lineTo((300,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002460"))
 pen = glyph.glyphPen()
@@ -22433,7 +22433,7 @@ pen.lineTo((200,300))
 pen.lineTo((600,300))
 pen.lineTo((600,200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002461"))
 pen = glyph.glyphPen()
@@ -22498,7 +22498,7 @@ pen.lineTo((200,300))
 pen.lineTo((600,300))
 pen.lineTo((600,200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002462"))
 pen = glyph.glyphPen()
@@ -22569,7 +22569,7 @@ pen.lineTo((200,300))
 pen.lineTo((600,300))
 pen.lineTo((600,200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002500"))
 pen = glyph.glyphPen()
@@ -22578,7 +22578,7 @@ pen.lineTo((0,500))
 pen.lineTo((800,500))
 pen.lineTo((800,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002502"))
 pen = glyph.glyphPen()
@@ -22587,7 +22587,7 @@ pen.lineTo((500,1200))
 pen.lineTo((500,-400))
 pen.lineTo((300,-400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000250c"))
 pen = glyph.glyphPen()
@@ -22598,7 +22598,7 @@ pen.lineTo((500,400))
 pen.lineTo((500,-400))
 pen.lineTo((300,-400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002510"))
 pen = glyph.glyphPen()
@@ -22609,7 +22609,7 @@ pen.lineTo((500,-400))
 pen.lineTo((300,-400))
 pen.lineTo((300,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002514"))
 pen = glyph.glyphPen()
@@ -22620,7 +22620,7 @@ pen.lineTo((800,500))
 pen.lineTo((800,400))
 pen.lineTo((300,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002518"))
 pen = glyph.glyphPen()
@@ -22631,7 +22631,7 @@ pen.lineTo((0,400))
 pen.lineTo((0,500))
 pen.lineTo((300,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000251c"))
 pen = glyph.glyphPen()
@@ -22644,7 +22644,7 @@ pen.lineTo((500,400))
 pen.lineTo((500,-400))
 pen.lineTo((300,-400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002524"))
 pen = glyph.glyphPen()
@@ -22657,7 +22657,7 @@ pen.lineTo((0,400))
 pen.lineTo((0,500))
 pen.lineTo((300,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000252c"))
 pen = glyph.glyphPen()
@@ -22670,7 +22670,7 @@ pen.lineTo((500,-400))
 pen.lineTo((300,-400))
 pen.lineTo((300,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002534"))
 pen = glyph.glyphPen()
@@ -22683,7 +22683,7 @@ pen.lineTo((0,400))
 pen.lineTo((0,500))
 pen.lineTo((300,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000253c"))
 pen = glyph.glyphPen()
@@ -22700,7 +22700,7 @@ pen.lineTo((0,400))
 pen.lineTo((0,500))
 pen.lineTo((300,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002550"))
 pen = glyph.glyphPen()
@@ -22714,7 +22714,7 @@ pen.lineTo((0,500))
 pen.lineTo((800,500))
 pen.lineTo((800,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002551"))
 pen = glyph.glyphPen()
@@ -22728,7 +22728,7 @@ pen.lineTo((700,1200))
 pen.lineTo((700,-400))
 pen.lineTo((500,-400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002552"))
 pen = glyph.glyphPen()
@@ -22743,7 +22743,7 @@ pen.lineTo((500,400))
 pen.lineTo((500,-400))
 pen.lineTo((300,-400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002553"))
 pen = glyph.glyphPen()
@@ -22758,7 +22758,7 @@ pen.lineTo((400,400))
 pen.lineTo((400,-400))
 pen.lineTo((200,-400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002554"))
 pen = glyph.glyphPen()
@@ -22776,7 +22776,7 @@ pen.lineTo((700,400))
 pen.lineTo((700,-400))
 pen.lineTo((500,-400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002555"))
 pen = glyph.glyphPen()
@@ -22791,7 +22791,7 @@ pen.lineTo((0,500))
 pen.lineTo((300,500))
 pen.lineTo((300,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002556"))
 pen = glyph.glyphPen()
@@ -22806,7 +22806,7 @@ pen.lineTo((400,-400))
 pen.lineTo((200,-400))
 pen.lineTo((200,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002557"))
 pen = glyph.glyphPen()
@@ -22824,7 +22824,7 @@ pen.lineTo((400,-400))
 pen.lineTo((200,-400))
 pen.lineTo((200,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002558"))
 pen = glyph.glyphPen()
@@ -22839,7 +22839,7 @@ pen.lineTo((800,500))
 pen.lineTo((800,400))
 pen.lineTo((300,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002559"))
 pen = glyph.glyphPen()
@@ -22854,7 +22854,7 @@ pen.lineTo((800,500))
 pen.lineTo((800,400))
 pen.lineTo((200,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000255a"))
 pen = glyph.glyphPen()
@@ -22872,7 +22872,7 @@ pen.lineTo((800,700))
 pen.lineTo((800,600))
 pen.lineTo((500,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000255b"))
 pen = glyph.glyphPen()
@@ -22887,7 +22887,7 @@ pen.lineTo((0,600))
 pen.lineTo((0,700))
 pen.lineTo((300,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000255c"))
 pen = glyph.glyphPen()
@@ -22902,7 +22902,7 @@ pen.lineTo((0,400))
 pen.lineTo((0,500))
 pen.lineTo((200,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000255d"))
 pen = glyph.glyphPen()
@@ -22920,7 +22920,7 @@ pen.lineTo((0,400))
 pen.lineTo((0,500))
 pen.lineTo((500,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000255e"))
 pen = glyph.glyphPen()
@@ -22937,7 +22937,7 @@ pen.lineTo((500,400))
 pen.lineTo((500,-400))
 pen.lineTo((300,-400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000255f"))
 pen = glyph.glyphPen()
@@ -22955,7 +22955,7 @@ pen.lineTo((700,400))
 pen.lineTo((700,-400))
 pen.lineTo((500,-400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002560"))
 pen = glyph.glyphPen()
@@ -22978,7 +22978,7 @@ pen.lineTo((700,400))
 pen.lineTo((700,-400))
 pen.lineTo((500,-400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002561"))
 pen = glyph.glyphPen()
@@ -22995,7 +22995,7 @@ pen.lineTo((0,600))
 pen.lineTo((0,700))
 pen.lineTo((300,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002562"))
 pen = glyph.glyphPen()
@@ -23013,7 +23013,7 @@ pen.lineTo((700,1200))
 pen.lineTo((700,-400))
 pen.lineTo((500,-400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002563"))
 pen = glyph.glyphPen()
@@ -23036,7 +23036,7 @@ pen.lineTo((400,-400))
 pen.lineTo((200,-400))
 pen.lineTo((200,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002564"))
 pen = glyph.glyphPen()
@@ -23054,7 +23054,7 @@ pen.lineTo((500,-400))
 pen.lineTo((300,-400))
 pen.lineTo((300,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002565"))
 pen = glyph.glyphPen()
@@ -23071,7 +23071,7 @@ pen.lineTo((400,-400))
 pen.lineTo((200,-400))
 pen.lineTo((200,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002566"))
 pen = glyph.glyphPen()
@@ -23094,7 +23094,7 @@ pen.lineTo((700,400))
 pen.lineTo((700,-400))
 pen.lineTo((500,-400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002567"))
 pen = glyph.glyphPen()
@@ -23112,7 +23112,7 @@ pen.lineTo((0,500))
 pen.lineTo((800,500))
 pen.lineTo((800,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002568"))
 pen = glyph.glyphPen()
@@ -23129,7 +23129,7 @@ pen.lineTo((0,400))
 pen.lineTo((0,500))
 pen.lineTo((200,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002569"))
 pen = glyph.glyphPen()
@@ -23152,7 +23152,7 @@ pen.lineTo((0,500))
 pen.lineTo((800,500))
 pen.lineTo((800,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000256a"))
 pen = glyph.glyphPen()
@@ -23177,7 +23177,7 @@ pen.lineTo((0,600))
 pen.lineTo((0,700))
 pen.lineTo((300,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000256b"))
 pen = glyph.glyphPen()
@@ -23202,7 +23202,7 @@ pen.lineTo((0,400))
 pen.lineTo((0,500))
 pen.lineTo((200,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000256c"))
 pen = glyph.glyphPen()
@@ -23234,7 +23234,7 @@ pen.lineTo((700,400))
 pen.lineTo((700,-400))
 pen.lineTo((500,-400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000256d"))
 pen = glyph.glyphPen()
@@ -23251,7 +23251,7 @@ pen.lineTo((300,300))
 pen.lineTo((400,300))
 pen.lineTo((400,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000256e"))
 pen = glyph.glyphPen()
@@ -23268,7 +23268,7 @@ pen.lineTo((300,300))
 pen.lineTo((200,300))
 pen.lineTo((200,400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000256f"))
 pen = glyph.glyphPen()
@@ -23285,7 +23285,7 @@ pen.lineTo((200,500))
 pen.lineTo((200,600))
 pen.lineTo((300,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002570"))
 pen = glyph.glyphPen()
@@ -23302,7 +23302,7 @@ pen.lineTo((400,500))
 pen.lineTo((400,600))
 pen.lineTo((300,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002580"))
 pen = glyph.glyphPen()
@@ -23311,7 +23311,7 @@ pen.lineTo((800,1200))
 pen.lineTo((800,500))
 pen.lineTo((0,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002581"))
 pen = glyph.glyphPen()
@@ -23320,7 +23320,7 @@ pen.lineTo((800,-100))
 pen.lineTo((800,-300))
 pen.lineTo((0,-300))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002584"))
 pen = glyph.glyphPen()
@@ -23329,7 +23329,7 @@ pen.lineTo((800,500))
 pen.lineTo((800,-400))
 pen.lineTo((0,-400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002588"))
 pen = glyph.glyphPen()
@@ -23338,7 +23338,7 @@ pen.lineTo((800,1200))
 pen.lineTo((800,-400))
 pen.lineTo((0,-400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000258c"))
 pen = glyph.glyphPen()
@@ -23347,7 +23347,7 @@ pen.lineTo((400,1200))
 pen.lineTo((400,-400))
 pen.lineTo((0,-400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002590"))
 pen = glyph.glyphPen()
@@ -23356,7 +23356,7 @@ pen.lineTo((800,1200))
 pen.lineTo((800,-400))
 pen.lineTo((400,-400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002591"))
 pen = glyph.glyphPen()
@@ -23520,7 +23520,7 @@ pen.lineTo((600,-300))
 pen.lineTo((600,-400))
 pen.lineTo((500,-400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002592"))
 pen = glyph.glyphPen()
@@ -23844,7 +23844,7 @@ pen.lineTo((700,-300))
 pen.lineTo((700,-400))
 pen.lineTo((600,-400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002593"))
 pen = glyph.glyphPen()
@@ -24000,7 +24000,7 @@ pen.lineTo((600,-200))
 pen.lineTo((600,-300))
 pen.lineTo((700,-300))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000025a0"))
 pen = glyph.glyphPen()
@@ -24009,7 +24009,7 @@ pen.lineTo((600,800))
 pen.lineTo((600,100))
 pen.lineTo((100,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000025a1"))
 pen = glyph.glyphPen()
@@ -24023,7 +24023,7 @@ pen.lineTo((300,200))
 pen.lineTo((500,200))
 pen.lineTo((500,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000025aa"))
 pen = glyph.glyphPen()
@@ -24032,7 +24032,7 @@ pen.lineTo((600,600))
 pen.lineTo((600,200))
 pen.lineTo((100,200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000025ab"))
 pen = glyph.glyphPen()
@@ -24046,7 +24046,7 @@ pen.lineTo((300,500))
 pen.lineTo((300,300))
 pen.lineTo((400,300))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000025ac"))
 pen = glyph.glyphPen()
@@ -24055,7 +24055,7 @@ pen.lineTo((700,400))
 pen.lineTo((700,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000025b2"))
 pen = glyph.glyphPen()
@@ -24076,7 +24076,7 @@ pen.lineTo((200,500))
 pen.lineTo((200,700))
 pen.lineTo((300,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000025b6"))
 pen = glyph.glyphPen()
@@ -24105,7 +24105,7 @@ pen.lineTo((100,100))
 pen.lineTo((100,0))
 pen.lineTo((0,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000025ba"))
 pen = glyph.glyphPen()
@@ -24142,7 +24142,7 @@ pen.lineTo((100,-300))
 pen.lineTo((100,-400))
 pen.lineTo((0,-400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000025bc"))
 pen = glyph.glyphPen()
@@ -24163,7 +24163,7 @@ pen.lineTo((100,400))
 pen.lineTo((100,600))
 pen.lineTo((0,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000025c4"))
 pen = glyph.glyphPen()
@@ -24200,7 +24200,7 @@ pen.lineTo((600,1000))
 pen.lineTo((600,1100))
 pen.lineTo((700,1100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000025ca"))
 pen = glyph.glyphPen()
@@ -24246,7 +24246,7 @@ pen.lineTo((500,400))
 pen.lineTo((500,500))
 pen.lineTo((400,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000025cb"))
 pen = glyph.glyphPen()
@@ -24276,7 +24276,7 @@ pen.lineTo((600,500))
 pen.lineTo((500,500))
 pen.lineTo((500,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000025cf"))
 pen = glyph.glyphPen()
@@ -24293,7 +24293,7 @@ pen.lineTo((200,200))
 pen.lineTo((100,200))
 pen.lineTo((100,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000025d8"))
 pen = glyph.glyphPen()
@@ -24315,7 +24315,7 @@ pen.lineTo((600,500))
 pen.lineTo((500,500))
 pen.lineTo((500,600))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000025d9"))
 pen = glyph.glyphPen()
@@ -24350,7 +24350,7 @@ pen.lineTo((300,300))
 pen.lineTo((200,300))
 pen.lineTo((200,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000025e2"))
 pen = glyph.glyphPen()
@@ -24373,7 +24373,7 @@ pen.lineTo((600,800))
 pen.lineTo((600,1000))
 pen.lineTo((700,1000))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000025e3"))
 pen = glyph.glyphPen()
@@ -24396,7 +24396,7 @@ pen.lineTo((800,-200))
 pen.lineTo((800,-400))
 pen.lineTo((0,-400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000025e4"))
 pen = glyph.glyphPen()
@@ -24419,7 +24419,7 @@ pen.lineTo((100,-200))
 pen.lineTo((100,-400))
 pen.lineTo((0,-400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000025e5"))
 pen = glyph.glyphPen()
@@ -24442,7 +24442,7 @@ pen.lineTo((100,800))
 pen.lineTo((100,1000))
 pen.lineTo((0,1000))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000025e6"))
 pen = glyph.glyphPen()
@@ -24464,7 +24464,7 @@ pen.lineTo((300,500))
 pen.lineTo((300,300))
 pen.lineTo((400,300))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000263a"))
 pen = glyph.glyphPen()
@@ -24507,7 +24507,7 @@ pen.lineTo((100,100))
 pen.lineTo((700,100))
 pen.lineTo((700,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000263b"))
 pen = glyph.glyphPen()
@@ -24543,7 +24543,7 @@ pen.lineTo((500,400))
 pen.lineTo((600,400))
 pen.lineTo((600,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000263c"))
 pen = glyph.glyphPen()
@@ -24593,7 +24593,7 @@ pen.lineTo((600,300))
 pen.lineTo((800,300))
 pen.lineTo((800,200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002640"))
 pen = glyph.glyphPen()
@@ -24627,7 +24627,7 @@ pen.lineTo((300,500))
 pen.lineTo((500,500))
 pen.lineTo((500,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002642"))
 pen = glyph.glyphPen()
@@ -24665,7 +24665,7 @@ pen.lineTo((200,100))
 pen.lineTo((400,100))
 pen.lineTo((400,500))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002660"))
 pen = glyph.glyphPen()
@@ -24698,7 +24698,7 @@ pen.lineTo((100,700))
 pen.lineTo((200,700))
 pen.lineTo((200,800))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002663"))
 pen = glyph.glyphPen()
@@ -24728,7 +24728,7 @@ pen.lineTo((200,0))
 pen.lineTo((200,100))
 pen.lineTo((300,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002665"))
 pen = glyph.glyphPen()
@@ -24757,7 +24757,7 @@ pen.lineTo((100,300))
 pen.lineTo((0,300))
 pen.lineTo((0,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002666"))
 pen = glyph.glyphPen()
@@ -24790,7 +24790,7 @@ pen.lineTo((200,600))
 pen.lineTo((200,700))
 pen.lineTo((300,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000266a"))
 pen = glyph.glyphPen()
@@ -24812,7 +24812,7 @@ pen.lineTo((400,800))
 pen.lineTo((600,800))
 pen.lineTo((600,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000266b"))
 pen = glyph.glyphPen()
@@ -24838,7 +24838,7 @@ pen.lineTo((300,800))
 pen.lineTo((600,800))
 pen.lineTo((600,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000026a0"))
 pen = glyph.glyphPen()
@@ -24931,7 +24931,7 @@ pen.lineTo((400,400))
 pen.lineTo((400,800))
 pen.lineTo((500,800))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000027e6"))
 pen = glyph.glyphPen()
@@ -24949,7 +24949,7 @@ pen.lineTo((300,1000))
 pen.lineTo((300,100))
 pen.lineTo((400,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U000027e7"))
 pen = glyph.glyphPen()
@@ -24967,7 +24967,7 @@ pen.lineTo((400,1000))
 pen.lineTo((400,100))
 pen.lineTo((500,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00002c7c"))
 pen = glyph.glyphPen()
@@ -24991,7 +24991,7 @@ pen.lineTo((200,-100))
 pen.lineTo((300,-100))
 pen.lineTo((300,100))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000e185"))
 pen = glyph.glyphPen()
@@ -25019,7 +25019,7 @@ pen.lineTo((100,100))
 pen.lineTo((700,100))
 pen.lineTo((700,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000e186"))
 pen = glyph.glyphPen()
@@ -25579,7 +25579,7 @@ pen.lineTo((600,300))
 pen.lineTo((800,300))
 pen.lineTo((800,200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000e18e"))
 pen = glyph.glyphPen()
@@ -25596,7 +25596,7 @@ pen.lineTo((400,700))
 pen.lineTo((500,700))
 pen.lineTo((500,800))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000e18f"))
 pen = glyph.glyphPen()
@@ -25610,7 +25610,7 @@ pen.lineTo((0,300))
 pen.lineTo((800,300))
 pen.lineTo((800,200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000e190"))
 pen = glyph.glyphPen()
@@ -25619,7 +25619,7 @@ pen.lineTo((800,900))
 pen.lineTo((800,200))
 pen.lineTo((0,200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000e191"))
 pen = glyph.glyphPen()
@@ -25648,7 +25648,7 @@ pen.lineTo((0,300))
 pen.lineTo((200,300))
 pen.lineTo((200,200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000e192"))
 pen = glyph.glyphPen()
@@ -25665,7 +25665,7 @@ pen.lineTo((200,300))
 pen.lineTo((200,200))
 pen.lineTo((0,200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000e193"))
 pen = glyph.glyphPen()
@@ -26088,7 +26088,7 @@ pen.lineTo((200,800))
 pen.lineTo((200,700))
 pen.lineTo((100,700))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000e19b"))
 pen = glyph.glyphPen()
@@ -26123,7 +26123,7 @@ pen.lineTo((800,-300))
 pen.lineTo((800,-400))
 pen.lineTo((700,-400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000e19c"))
 pen = glyph.glyphPen()
@@ -26360,7 +26360,7 @@ pen.lineTo((300,800))
 pen.lineTo((400,800))
 pen.lineTo((400,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000e1a5"))
 pen = glyph.glyphPen()
@@ -26377,7 +26377,7 @@ pen.lineTo((300,800))
 pen.lineTo((200,800))
 pen.lineTo((200,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000e1a6"))
 pen = glyph.glyphPen()
@@ -26394,7 +26394,7 @@ pen.lineTo((400,-100))
 pen.lineTo((400,0))
 pen.lineTo((300,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000e1a7"))
 pen = glyph.glyphPen()
@@ -26411,7 +26411,7 @@ pen.lineTo((200,-100))
 pen.lineTo((200,0))
 pen.lineTo((300,0))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000e1a8"))
 pen = glyph.glyphPen()
@@ -26420,7 +26420,7 @@ pen.lineTo((500,1200))
 pen.lineTo((500,-400))
 pen.lineTo((300,-400))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000fb01"))
 pen = glyph.glyphPen()
@@ -26451,7 +26451,7 @@ pen.lineTo((0,600))
 pen.lineTo((100,600))
 pen.lineTo((100,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000fb02"))
 pen = glyph.glyphPen()
@@ -26480,7 +26480,7 @@ pen.lineTo((0,600))
 pen.lineTo((100,600))
 pen.lineTo((100,900))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U0000fffd"))
 pen = glyph.glyphPen()
@@ -26514,7 +26514,7 @@ pen.lineTo((300,0))
 pen.lineTo((500,0))
 pen.lineTo((500,200))
 pen.closePath()
-glyph.width = 1600
+glyph.width = 800
 
 glyph = font.createChar(ord("\U00000021"))
 pen = glyph.glyphPen()

@@ -57,7 +57,7 @@ struct path {
 	Uint32 numPoints;
 };
 
-int path_out_fontforge(struct path *path, FILE *fp);
+int path_out_fontforge(const struct path *path, FILE *fp);
 int paths_gen(XImage *image, int scale, struct path **pPaths, Uint32 *pNumPaths);
 void paths_free(struct path *paths, Uint32 numPaths);
 

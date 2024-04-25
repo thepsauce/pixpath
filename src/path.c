@@ -345,7 +345,7 @@ error:
 	return -1;
 }
 
-int path_out_fontforge(struct path *path, FILE *fp)
+int path_out_fontforge(const struct path *path, FILE *fp)
 {
 	if (path->numPoints == 0) {
 		return 1;

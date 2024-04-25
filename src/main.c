@@ -57,7 +57,8 @@ int render_context_init(const char *xftFont)
 	}
 	render_context.screen = DefaultScreen(render_context.display);
 
-	render_context.font = XftFontOpenName(render_context.display, 0,
+	render_context.font = XftFontOpenName(render_context.display,
+			DefaultScreen(render_context.display),
 			xftFont);
 	if (render_context.font == NULL) {
 		fprintf(stderr, "error: could not open font '%s'\n", xftFont);
@@ -266,13 +267,23 @@ int next_unicode(FT_UInt point)
 			fprintf(stderr, "fail: glyph is empty\n");
 		}
 	} else if (r == 0) {
+		int maxExtent = 0;
+		/* TODO: hardcode 8 value */
+		const int units = 8 * glob_config.prescale;
+
 		printf("glyph = font.createChar(ord(\"\\U%08x\"))\n", point);
 		printf("pen = glyph.glyphPen()\n");
 		for (Uint32 i = 0; i < numPaths; i++) {
-			path_out_fontforge(&paths[i], stdout);
+			const struct path p = paths[i];
+			path_out_fontforge(&p, stdout);
+			for (Uint32 j = 0; j < p.numPoints; j++) {
+				if (p.points[j].x > maxExtent) {
+					maxExtent = p.points[j].x;
+				}
+			}
 		}
-		printf("glyph.width = %d\n",
-				extents.width * glob_config.prescale);
+		maxExtent = (maxExtent + units - 1) / units * units;
+		printf("glyph.width = %d\n", maxExtent);
 		printf("\n");
 		paths_free(paths, numPaths);
 

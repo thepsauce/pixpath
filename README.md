@@ -1,7 +1,7 @@
 # pixpath
 Transforms any font into pixel perfect outlines
 
-This was written in C, Github shows Python only because the program generates a Python file that uses fontforge, see `test.py` which was generated from `font.otb`.
+This was written in C, Github shows Python only because the program generates a Python file that uses fontforge, see `test.py` which was generated from `font.otb` (With font name Bm Plus IBM VGA 8x16).
 
 There are some hardcode values in main, those have to be adjusted for the specific use case.
 
